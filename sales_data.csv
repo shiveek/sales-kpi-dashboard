@@ -1,0 +1,11 @@
+Order Date,Region,Category,Sales,Profit,Order ID,Product Name
+2024-01-05,East,Technology,1200,250,ORD-1001,Laptop
+2024-01-12,West,Furniture,800,120,ORD-1002,Chair
+2024-02-01,South,Office Supplies,350,60,ORD-1003,Paper
+2024-02-15,Central,Technology,1500,300,ORD-1004,Monitor
+2024-03-02,East,Furniture,950,180,ORD-1005,Desk
+2024-03-18,West,Technology,2100,450,ORD-1006,Printer
+2024-04-05,South,Office Supplies,400,75,ORD-1007,Notebook
+2024-04-20,Central,Furniture,1100,220,ORD-1008,Table
+2024-05-11,East,Technology,1700,350,ORD-1009,Laptop
+2024-05-22,West,Office Supplies,500,90,ORD-1010,Paper
